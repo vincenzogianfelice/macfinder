@@ -1,6 +1,9 @@
 # MAC Vendor Finder
 *Tool to export the MAC Vendor from file list local or through the API from site **macvendor.com** (https://macvendors.com)*
 
+# ATTENZIONE
+*# Per chi avesse gia scaricato il repoitory... si prega di cancellarlo e di ri-scaricarlo nuvamente.*
+
 # Descrizione
 Esporta il MAC Vendor tramite l'API fornita dal sito **https://macvendor.com**
 o da un file contentente una lista di MAC-Vendor. Generalmente il file (per la ricerca in locale) e' *oui.txt*.
