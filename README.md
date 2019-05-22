@@ -57,7 +57,7 @@ git submodule update --remote --merge
 sudo ./install.sh
 ```
 
-*Dopo upgrade:*
+*Upgrade installazione:*
 ```
 sudo ./install.sh -u
 ```
