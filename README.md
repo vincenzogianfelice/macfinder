@@ -1,5 +1,5 @@
 # MAC Vendor Finder
-*Tool to export the MAC Vendor from file list local or through the API from site **macvendor.com** (https://macvendors.com)*
+*Tool to export the MAC Vendor from file list local or through the API from site **macvendors.com** (https://macvendors.com)*
 
 <br />
 
@@ -9,7 +9,7 @@
 <br />
 
 # Descrizione
-Esporta il MAC Vendor tramite l'API fornita dal sito **https://macvendor.com**
+Esporta il MAC Vendor tramite l'API fornita dal sito **https://macvendors.com**
 o da un file contentente una lista di MAC-Vendor. Generalmente il file (per la ricerca in locale) e' *oui.txt*.
 
 # Dipendenze
@@ -17,7 +17,7 @@ o da un file contentente una lista di MAC-Vendor. Generalmente il file (per la r
 
 # Settings
 
-Importa la tua API da ***macvendors.com***. Effettua il login su https://app.macvendors.com/auth/login, genera il token
+Importa la tua API da ***macvendors***. Effettua il login su https://app.macvendors.com/auth/login, genera il token
 dalla pagina e inseriscila in ***macfinder*** nella variabile **API**:
 ```
 #!/bin/bash
